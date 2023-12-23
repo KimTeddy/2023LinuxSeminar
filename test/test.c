@@ -7,7 +7,7 @@ int main(){
 
     printf("hi everyone");
 
-    printf("asdf");
+    printf("abcd");
 
     return 0;
 }
